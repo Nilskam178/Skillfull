@@ -1,0 +1,7 @@
+##Exp Gains Multiplier - default: 1.2
+exp-gain-modifier: 1.2
+
+levels:
+  start-exp: 100
+  level-change: 1.5
+  max-level: 10

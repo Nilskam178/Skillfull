@@ -1,0 +1,9 @@
+name: skillfull
+version: '${project.version}'
+main: levelsystem.levelsystem.Skillful
+api-version: 1.19
+prefix: SkillFull
+authors: [ Crusader420_ ]
+description: A plugin that add skills which you can level
+commands:
+  skillful:
